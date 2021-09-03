@@ -1,12 +1,11 @@
-#! /home/ibra/dvs_ws/src/pose_estimation/DeepPoseEstimation/blender/2.93/python/bin/python3.9
+#! /usr/bin/python
 
-
-import cv2
-import sys
+#import cv2
+#import sys
 print("Python version sss")
-print (sys.version)
+#print (sys.version)
 print("Version info.")
-print (sys.version_info)
+#print (sys.version_info)
 
 import rospy
 from std_msgs.msg import String
